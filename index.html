@@ -11,10 +11,9 @@
 
 <body>
   <div id="3d-graph"></div>
-  <a-marker-camera type='pattern'  patternUrl='pattern-illustration.patt'></a-marker-camera>
 
   <script>
-    const Graph = ForceGraphAR()
+    const Graph = ForceGraphAR({markerAttrs:{url:'pattern-illustration.patt'}})
       (document.getElementById('3d-graph'))
         .jsonUrl('./banking.json')
         .glScale(160)
