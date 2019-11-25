@@ -18,13 +18,14 @@
         .jsonUrl('./banking.json')
         .glScale(160)
         .yOffset(1.8)
-        .nodeLabel('id')
-        .nodeAutoColorBy('group')
+        .nodeLabel(node => `${node.data.Objects || node.data.FullName}`)
+        .nodeAutoColorBy(color => color.data.type)
+        .nodeAutoColorBy('Name')
         .nodeRelSize(5)
         .linkWidth(1.5)
         .nodeOpacity(0.9)
         .linkOpacity(0.3)
-        .linkColor(() => 'darkgrey');
+        .linkColor(() => 'red');
   </script>
 </body>
 </html>
