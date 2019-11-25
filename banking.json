@@ -1,0 +1,880 @@
+{
+  "nodes": [
+    {
+      "id": 139692,
+      "data": {
+        "Color": "rgb(4,94,4)",
+        "Concept": "pseudo",
+        "Count": 0,
+        "FullName": "Services##Logic Services##Business Logic##Spring Cloud##API Spring Cloud",
+        "Name": "API Spring Cloud",
+        "Objects": "API Spring Cloud",
+        "Shade": "rgb(105,105,105)##rgb(0,0,128)##rgb(176,196,222)##rgb(4,94,4)##rgb(4,94,4)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "API Spring Cloud"
+    },
+    {
+      "id": 144987,
+      "data": {
+        "Color": "rgb(4,94,4)",
+        "Concept": "pseudo",
+        "Count": 0,
+        "FullName": "Services##Logic Services##Business Logic##Spring IO##API Spring Batch",
+        "Name": "API Spring Batch",
+        "Objects": "API Spring Batch",
+        "Shade": "rgb(105,105,105)##rgb(0,0,128)##rgb(176,196,222)##rgb(4,94,4)##rgb(4,94,4)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "API Spring Batch"
+    },
+    {
+      "id": 203695,
+      "data": {
+        "Color": "rgb(176,48,96)",
+        "Count": 313,
+        "FullName": "Services##Logic Services##Business Logic##Java Business Logic##Java Class",
+        "Level": 5,
+        "Name": "Java Class",
+        "Objects": "Java Class",
+        "Shade": "rgb(105,105,105)##rgb(0,0,128)##rgb(176,196,222)##rgb(176,48,96)##rgb(176,48,96)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "Java Class"
+    },
+    {
+      "id": 203690,
+      "data": {
+        "Color": "rgb(5,129,134)",
+        "Count": 90,
+        "FullName": "Data Services##Database Services##RDBMS Services##Oracle Database##Oracle table",
+        "Level": 5,
+        "Name": "Oracle table",
+        "Objects": "Oracle table",
+        "Shade": "rgb(47,79,79)##rgb(5,129,134)##rgb(70,130,180)##rgb(5,129,134)##rgb(5,129,134)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "Oracle table"
+    },
+    {
+      "id": 203702,
+      "data": {
+        "Color": "rgb(203,188,110)",
+        "Count": 62,
+        "FullName": "Services##Logic Services##Data Access Services##DAO Data Access##Java Class DAO",
+        "Level": 5,
+        "Name": "Java Class DAO",
+        "Objects": "Java Class DAO",
+        "Shade": "rgb(105,105,105)##rgb(0,0,128)##rgb(175,238,238)##rgb(208,32,144)##rgb(203,188,110)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "Java Class DAO"
+    },
+    {
+      "id": 203701,
+      "data": {
+        "Color": "rgb(253,191,35)",
+        "Count": 7,
+        "FullName": "Services##Logic Services##Data Access Services##Hibernate Data Access##Hibernate Entity",
+        "Level": 5,
+        "Name": "Hibernate Entity",
+        "Objects": "Hibernate Entity",
+        "Shade": "rgb(105,105,105)##rgb(0,0,128)##rgb(175,238,238)##rgb(186,85,211)##rgb(253,191,35)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "Hibernate Entity"
+    },
+    {
+      "id": 203693,
+      "data": {
+        "Color": "rgb(30,176,168)",
+        "Count": 123,
+        "FullName": "Services##Logic Services##Business Logic##Java Business Logic##Java Properties File",
+        "Level": 5,
+        "Name": "Java Properties File",
+        "Objects": "Java Properties File",
+        "Shade": "rgb(105,105,105)##rgb(0,0,128)##rgb(176,196,222)##rgb(176,48,96)##rgb(30,176,168)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "Java Properties File"
+    },
+    {
+      "id": 203691,
+      "data": {
+        "Color": "rgb(149,46,200)",
+        "Count": 449,
+        "FullName": "User Interaction##Web Interaction##Web Presentation##HTML Presentation##eFile",
+        "Level": 5,
+        "Name": "eFile",
+        "Objects": "eFile",
+        "Shade": "rgb(119,136,153)##rgb(65,105,225)##rgb(0,255,0)##rgb(159,182,205)##rgb(149,46,200)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "eFile"
+    },
+    {
+      "id": 203697,
+      "data": {
+        "Color": "rgb(171,234,234)",
+        "Count": 70,
+        "FullName": "User Interaction##Web Interaction##Web Coordination##Struts Coordination##Java Class Struts",
+        "Level": 5,
+        "Name": "Java Class Struts",
+        "Objects": "Java Class Struts",
+        "Shade": "rgb(119,136,153)##rgb(65,105,225)##rgb(124,252,0)##rgb(0,178,238)##rgb(171,234,234)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "Java Class Struts"
+    },
+    {
+      "id": 203700,
+      "data": {
+        "Color": "rgb(137,115,2)",
+        "Count": 2198,
+        "FullName": "Services##Logic Services##Data Access Services##Hibernate Data Access##Hibernate Entity Property",
+        "Level": 5,
+        "Name": "Hibernate Entity Property",
+        "Objects": "Hibernate Entity Property",
+        "Shade": "rgb(105,105,105)##rgb(0,0,128)##rgb(175,238,238)##rgb(186,85,211)##rgb(137,115,2)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "Hibernate Entity Property"
+    },
+    {
+      "id": 203696,
+      "data": {
+        "Color": "rgb(234,209,206)",
+        "Count": 7,
+        "FullName": "User Interaction##Web Interaction##Web Presentation##JSP Presentation##JSP Custom Tag Library",
+        "Level": 5,
+        "Name": "JSP Custom Tag Library",
+        "Objects": "JSP Custom Tag Library",
+        "Shade": "rgb(119,136,153)##rgb(65,105,225)##rgb(0,255,0)##rgb(188,210,238)##rgb(234,209,206)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "JSP Custom Tag Library"
+    },
+    {
+      "id": 203694,
+      "data": {
+        "Color": "rgb(97,182,253)",
+        "Count": 236,
+        "FullName": "Services##Logic Services##Business Logic Coordination##JEE Coordination##Spring Bean",
+        "Level": 5,
+        "Name": "Spring Bean",
+        "Objects": "Spring Bean",
+        "Shade": "rgb(105,105,105)##rgb(0,0,128)##rgb(176,224,230)##rgb(255,182,193)##rgb(97,182,253)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "Spring Bean"
+    },
+    {
+      "id": 203692,
+      "data": {
+        "Color": "rgb(81,103,43)",
+        "Count": 250,
+        "FullName": "User Interaction##Web Interaction##Web Coordination##Struts Coordination##Struts Action",
+        "Level": 5,
+        "Name": "Struts Action",
+        "Objects": "Struts Action",
+        "Shade": "rgb(119,136,153)##rgb(65,105,225)##rgb(124,252,0)##rgb(0,178,238)##rgb(81,103,43)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "Struts Action"
+    },
+    {
+      "id": 203703,
+      "data": {
+        "Color": "rgb(3,235,235)",
+        "Count": 1,
+        "FullName": "User Interaction##Screen Interaction##Rich Client Presentation##Java Rich Client Presentation##Java Class Rich Client",
+        "Level": 5,
+        "Name": "Java Class Rich Client",
+        "Objects": "Java Class Rich Client",
+        "Shade": "rgb(119,136,153)##rgb(0,0,205)##rgb(32,178,170)##rgb(131,139,139)##rgb(3,235,235)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "Java Class Rich Client"
+    },
+    {
+      "id": 203698,
+      "data": {
+        "Color": "rgb(2,246,150)",
+        "Count": 7,
+        "FullName": "User Interaction##Web Interaction##Web Coordination##Servlet Coordination##Servlet",
+        "Level": 5,
+        "Name": "Servlet",
+        "Objects": "Servlet",
+        "Shade": "rgb(119,136,153)##rgb(65,105,225)##rgb(124,252,0)##rgb(135,206,255)##rgb(2,246,150)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "Servlet"
+    },
+    {
+      "id": 203699,
+      "data": {
+        "Color": "rgb(2,96,2)",
+        "Count": 10,
+        "FullName": "User Interaction##Web Interaction##Web Coordination##Struts Coordination##Struts Interceptor",
+        "Level": 5,
+        "Name": "Struts Interceptor",
+        "Objects": "Struts Interceptor",
+        "Shade": "rgb(119,136,153)##rgb(65,105,225)##rgb(124,252,0)##rgb(0,178,238)##rgb(2,96,2)",
+        "labels": [
+          "Level5",
+          "eCommerce"
+        ]
+      },
+      "Name": "Struts Interceptor"
+    }
+  ],
+  "links": [
+    {
+      "id": 2190444,
+      "source": 144987,
+      "target": 139692,
+      "type": "References",
+      "data": {
+        "Concept": "pseudo",
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 2190747,
+      "source": 139692,
+      "target": 203695,
+      "type": "References",
+      "data": {
+        "Concept": "pseudo",
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 61468,
+      "source": 203702,
+      "target": 203690,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 62494,
+      "source": 203695,
+      "target": 203690,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 61520,
+      "source": 203701,
+      "target": 203690,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 61847,
+      "source": 203693,
+      "target": 203690,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 60997,
+      "source": 203691,
+      "target": 203690,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 61946,
+      "source": 203697,
+      "target": 203690,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 62245,
+      "source": 203700,
+      "target": 203690,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 99429,
+      "source": 203691,
+      "target": 203696,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 86852,
+      "source": 203691,
+      "target": 203694,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 77164,
+      "source": 203691,
+      "target": 203693,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 70203,
+      "source": 203691,
+      "target": 203692,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 99248,
+      "source": 203691,
+      "target": 203695,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 62668,
+      "source": 203692,
+      "target": 203691,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 62965,
+      "source": 203695,
+      "target": 203691,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 110350,
+      "source": 203692,
+      "target": 203697,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 87695,
+      "source": 203692,
+      "target": 203695,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 70621,
+      "source": 203693,
+      "target": 203692,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 69516,
+      "source": 203697,
+      "target": 203692,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 71014,
+      "source": 203695,
+      "target": 203692,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 86677,
+      "source": 203693,
+      "target": 203694,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 71827,
+      "source": 203697,
+      "target": 203693,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 79689,
+      "source": 203703,
+      "target": 203693,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 71643,
+      "source": 203695,
+      "target": 203693,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 123174,
+      "source": 203694,
+      "target": 203702,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 98470,
+      "source": 203694,
+      "target": 203695,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 80074,
+      "source": 203695,
+      "target": 203694,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 79825,
+      "source": 203697,
+      "target": 203694,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 110751,
+      "source": 203695,
+      "target": 203700,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 110734,
+      "source": 203695,
+      "target": 203697,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 123322,
+      "source": 203695,
+      "target": 203703,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 123183,
+      "source": 203695,
+      "target": 203702,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 87515,
+      "source": 203697,
+      "target": 203695,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 98444,
+      "source": 203698,
+      "target": 203695,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 99400,
+      "source": 203699,
+      "target": 203695,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 87066,
+      "source": 203702,
+      "target": 203695,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 126719,
+      "source": 203697,
+      "target": 203703,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 110209,
+      "source": 203698,
+      "target": 203697,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    },
+    {
+      "id": 110512,
+      "source": 203699,
+      "target": 203697,
+      "type": "References",
+      "data": {
+        "Type": "References",
+        "links": "References"
+      },
+      "attributes": {
+        "shape": "arrow",
+        "color": "grey",
+        "width": 0.8
+      }
+    }
+  ]
+}

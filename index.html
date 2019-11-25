@@ -1,0 +1,35 @@
+<html>
+<head>
+  <style> body { margin: 0; } </style>
+
+  <script src="//aframe.io/releases/0.9.2/aframe.min.js"></script>
+  <script src="//unpkg.com/ar.js/aframe/build/aframe-ar.min.js"></script>
+
+  <script src="//unpkg.com/3d-force-graph-ar"></script>
+  <!--<script src="../../dist/3d-force-graph-ar.js"></script>-->
+</head>
+
+<body>
+  <div id="3d-graph"></div>
+
+  <script>
+    const Graph = ForceGraphAR()
+      (document.getElementById('3d-graph'))
+        .jsonUrl('./banking.json')
+        .glScale(160)
+        .yOffset(1.8)
+        .nodeLabel('id')
+        .nodeAutoColorBy(color => color.data.type)
+        .nodeRelSize(5)
+        .linkWidth(1.5)
+        .nodeOpacity(0.9)
+        .linkOpacity(0.3)
+        .nodeRelSize(2)
+        .nodeLabel(node => `${node.data.Objects || node.data.FullName}`)
+        .linkColor('red')
+        .linkOpacity(0.5)
+        .linkDirectionalParticleSpeed(0.001)
+        .linkLabel(link => `${link.data.Type || ''}`);
+  </script>
+</body>
+</html>
