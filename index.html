@@ -20,17 +20,12 @@
         .glScale(160)
         .yOffset(1.8)
         .nodeLabel('id')
-        .nodeAutoColorBy(color => color.data.type)
+        .nodeAutoColorBy('group')
         .nodeRelSize(5)
         .linkWidth(1.5)
         .nodeOpacity(0.9)
         .linkOpacity(0.3)
-        .nodeRelSize(2)
-        .nodeLabel(node => `${node.data.Objects || node.data.FullName}`)
-        .linkColor('red')
-        .linkOpacity(0.5)
-        .linkDirectionalParticleSpeed(0.001)
-        .linkLabel(link => `${link.data.Type || ''}`);
+        .linkColor(() => 'darkgrey');
   </script>
 </body>
 </html>
