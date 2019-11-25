@@ -22,6 +22,16 @@
         .nodeAutoColorBy(color => color.data.type)
         .nodeAutoColorBy('Name')
         .nodeRelSize(5)
+        .onNodeClick((node) => {
+          const distance = 40;
+          const distRatio = 1 + distance / Math.hypot(node.x, node.y, node.z);
+
+          myGraph.cameraPosition(
+            { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio }, // new position
+            node,
+            3000
+          );
+        })
         .linkWidth(1.5)
         .nodeOpacity(0.9)
         .linkOpacity(0.3)
